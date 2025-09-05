@@ -1,2 +1,2 @@
 # bit-blaster
-A mix of BitBlasterXL and PathOfExile Skill tree, practice project
+A mix of BitBlasterXL and Path Of Exile skill tree
